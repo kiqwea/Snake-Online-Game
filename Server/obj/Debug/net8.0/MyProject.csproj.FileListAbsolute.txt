@@ -1,0 +1,28 @@
+/Users/lorn/Projects/cursor c#/Server/bin/Debug/net8.0/MyProject
+/Users/lorn/Projects/cursor c#/Server/bin/Debug/net8.0/MyProject.deps.json
+/Users/lorn/Projects/cursor c#/Server/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/Users/lorn/Projects/cursor c#/Server/bin/Debug/net8.0/MyProject.dll
+/Users/lorn/Projects/cursor c#/Server/bin/Debug/net8.0/MyProject.pdb
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.dll
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/refint/MyProject.dll
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.pdb
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/Users/lorn/Projects/cursor c#/Server/obj/Debug/net8.0/ref/MyProject.dll
+/Users/lorn/Projects/SnakeGameC#/Server/bin/Debug/net8.0/MyProject
+/Users/lorn/Projects/SnakeGameC#/Server/bin/Debug/net8.0/MyProject.deps.json
+/Users/lorn/Projects/SnakeGameC#/Server/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/Users/lorn/Projects/SnakeGameC#/Server/bin/Debug/net8.0/MyProject.dll
+/Users/lorn/Projects/SnakeGameC#/Server/bin/Debug/net8.0/MyProject.pdb
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.dll
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/refint/MyProject.dll
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.pdb
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/Users/lorn/Projects/SnakeGameC#/Server/obj/Debug/net8.0/ref/MyProject.dll
