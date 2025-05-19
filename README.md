@@ -64,5 +64,17 @@ A classic Snake game with multiplayer functionality, built using C# and TCP netw
 - X: Switch to online mode
 - Q: View leaderboard
 
+- ## Gameplay
+
+
+
+
+https://github.com/user-attachments/assets/de47f700-92a5-4a14-a78b-bbde30dec0a4
+
+
+
+
+
+
 
 **2025 created**
